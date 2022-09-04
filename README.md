@@ -10,3 +10,15 @@ that was worked on for 4 months and I still haven't
 recode this mod lol.
 
 And also me not knowing how to use git hub lmao
+# Mod Credits
+Classic1926 - Creator of the mod, Main Programmer, and Artist
+Alucardseibie21 - Artist and Composer
+Doger2793 - Artist, Lua Scripter, and Charter
+RaeTheSpirit - Artist and Composer
+Voltex - Composer
+OuroborosFinis - Charter
+James Jamestar - Composer
+TheZoeGaming12 - Artist
+8-10 fnf - Artist
+FlDyDm - Artist
+SkyBlueRed - Artist
