@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "that wasn't really that bad",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori-player",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Well no duh, Psych Engine is trash and I can't force ghost tapping off",
+			"boxState": "normal",
+			"sound": "finnText",
+			"portrait": "finn-player",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "oh that explains evreything-",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori-player",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "SHUT UP!",
+			"boxState": "normal",
+			"sound": "arzoText",
+			"portrait": "arzo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "*arzo basically kills ori*",
+			"boxState": "normal",
+			"sound": "noText",
+			"portrait": "none",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "noText",
+			"portrait": "finn-player",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I should just leave instead",
+			"boxState": "normal",
+			"sound": "finnText",
+			"portrait": "finn-player",
+			"speed": 0.05
+		}
+	]
+}

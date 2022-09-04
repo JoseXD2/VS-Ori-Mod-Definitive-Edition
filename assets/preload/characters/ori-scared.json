@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "ori-scared idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				14
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "ori-scared down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				47
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "ori-scared up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				104,
+				44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "ori-scared right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				63
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "ori-scared left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				151,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "ori left miss0"
+		},
+		{
+			"offsets": [
+				39,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "ori down miss0"
+		},
+		{
+			"offsets": [
+				74,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "ori up miss0"
+		},
+		{
+			"offsets": [
+				-18,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "ori right miss0"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				109,
+				-8
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "ori-scared ded",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				109,
+				-7
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "ori-scared ded",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				-7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "ori dies"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ori_assets",
+	"position": [
+		-170,
+		70
+	],
+	"healthicon": "ori-scared",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		60,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 0.7
+}

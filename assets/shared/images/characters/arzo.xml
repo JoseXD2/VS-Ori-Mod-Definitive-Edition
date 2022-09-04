@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="arzo.png"><SubTexture name="arzo left0000" x="0" y="1293" width="435" height="583" frameX="-331" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo left0001" x="435" y="1293" width="429" height="583" frameX="-337" frameY="-95" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo down0000" x="2172" y="0" width="344" height="453" frameX="-309" frameY="-259" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo down0001" x="1762" y="599" width="344" height="457" frameX="-309" frameY="-254" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo right0000" x="864" y="1293" width="554" height="518" frameX="-400" frameY="-152" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo right0001" x="1418" y="1293" width="545" height="518" frameX="-400" frameY="-152" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo idle0000" x="1762" y="0" width="410" height="599" frameX="-308" frameY="-101" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo idle0001" x="1230" y="651" width="410" height="609" frameX="-308" frameY="-92" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo idle0002" x="820" y="651" width="410" height="618" frameX="-308" frameY="-84" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo idle0003" x="410" y="651" width="410" height="625" frameX="-308" frameY="-78" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo idle0004" x="0" y="651" width="410" height="642" frameX="-308" frameY="-62" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo idle0005" x="676" y="0" width="410" height="648" frameX="-308" frameY="-52" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo up0000" x="0" y="0" width="676" height="651" frameX="-238" frameY="-32" frameWidth="1280" frameHeight="720" />
+<SubTexture name="arzo up0001" x="1086" y="0" width="676" height="643" frameX="-238" frameY="-40" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

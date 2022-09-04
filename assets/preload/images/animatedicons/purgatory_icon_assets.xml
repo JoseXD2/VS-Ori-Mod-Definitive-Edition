@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="purgatory_icon_assets.png">
+<SubTexture name="arzo winning0000" x="328" y="375" width="105" height="109" frameX="-12" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo winning0001" x="106" y="140" width="105" height="117" frameX="-12" frameY="-16" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo winning0002" x="0" y="260" width="105" height="115" frameX="-12" frameY="-18" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo winning0003" x="207" y="260" width="105" height="114" frameX="-12" frameY="-20" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo healthy0000" x="433" y="375" width="105" height="109" frameX="-12" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo healthy0001" x="279" y="117" width="100" height="115" frameX="-19" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo healthy0002" x="382" y="0" width="101" height="114" frameX="-16" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo healthy0003" x="483" y="227" width="103" height="112" frameX="-13" frameY="-23" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo pissed0000" x="0" y="487" width="112" height="109" frameX="-12" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo pissed0001" x="0" y="375" width="111" height="112" frameX="-17" frameY="-23" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo pissed0002" x="112" y="487" width="116" height="109" frameX="-6" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="arzo pissed0003" x="111" y="375" width="111" height="112" frameX="-15" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="evilori winning0000" x="105" y="260" width="102" height="115" frameX="-23" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="evilori winning0001" x="279" y="0" width="103" height="117" frameX="-23" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="evilori winning0002" x="0" y="140" width="106" height="120" frameX="-23" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="evilori winning0003" x="279" y="0" width="103" height="117" frameX="-23" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="evilori healthy0000" x="228" y="487" width="106" height="109" frameX="-21" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="evilori healthy0001" x="222" y="375" width="106" height="112" frameX="-24" frameY="-23" frameWidth="150" frameHeight="150" />
+<SubTexture name="evilori healthy0002" x="334" y="487" width="110" height="109" frameX="-16" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="evilori healthy0003" x="483" y="114" width="104" height="113" frameX="-26" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="ben happy0000" x="0" y="0" width="140" height="140" frameX="-2" frameY="-2" frameWidth="150" frameHeight="150" />
+<SubTexture name="ben still0000" x="140" y="0" width="139" height="139" frameX="-2" frameY="-3" frameWidth="150" frameHeight="150" />
+<SubTexture name="ben angy0000" x="483" y="0" width="143" height="114" frameX="-4" frameY="-13" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

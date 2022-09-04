@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="choppa.png"><SubTexture name="choppa xD0000" x="0" y="0" width="668" height="386" frameX="-13" frameY="-2" frameWidth="687" frameHeight="390" />
+<SubTexture name="choppa xD0001" x="668" y="0" width="599" height="385" frameX="-2" frameY="-3" frameWidth="687" frameHeight="390" />
+</TextureAtlas>

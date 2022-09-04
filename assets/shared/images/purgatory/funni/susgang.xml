@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="susgang.png"><SubTexture name="susgang bop0000" x="3498" y="557" width="1166" height="543" frameX="-96" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang bop0001" x="3498" y="557" width="1166" height="543" frameX="-96" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang bop0002" x="0" y="2402" width="1166" height="557" frameX="-96" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang bop0003" x="2332" y="1192" width="1166" height="578" frameX="-96" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang bop0004" x="0" y="1228" width="1166" height="596" frameX="-96" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang bop0005" x="0" y="0" width="1166" height="614" frameX="-96" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang quartersus0000" x="3498" y="1100" width="1166" height="543" frameX="-96" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang quartersus0001" x="3498" y="1100" width="1166" height="543" frameX="-96" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang quartersus0002" x="1166" y="2402" width="1166" height="557" frameX="-96" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang quartersus0003" x="0" y="1824" width="1166" height="578" frameX="-96" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang quartersus0004" x="1166" y="1228" width="1166" height="596" frameX="-96" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang quartersus0005" x="1166" y="0" width="1166" height="614" frameX="-96" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang halfsus0000" x="3498" y="1643" width="1166" height="543" frameX="-96" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang halfsus0001" x="3498" y="1643" width="1166" height="543" frameX="-96" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang halfsus0002" x="2332" y="2402" width="1166" height="557" frameX="-96" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang halfsus0003" x="1166" y="1824" width="1166" height="578" frameX="-96" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang halfsus0004" x="2332" y="0" width="1166" height="596" frameX="-96" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang halfsus0005" x="0" y="614" width="1166" height="614" frameX="-96" frameY="-37" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang sus0000" x="3498" y="2186" width="1166" height="543" frameX="-96" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang sus0001" x="3498" y="2186" width="1166" height="543" frameX="-96" frameY="-108" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang sus0002" x="3498" y="0" width="1166" height="557" frameX="-96" frameY="-94" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang sus0003" x="2332" y="1824" width="1166" height="578" frameX="-96" frameY="-73" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang sus0004" x="2332" y="596" width="1166" height="596" frameX="-96" frameY="-55" frameWidth="1280" frameHeight="720" />
+<SubTexture name="susgang sus0005" x="1166" y="614" width="1166" height="614" frameX="-96" frameY="-37" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>

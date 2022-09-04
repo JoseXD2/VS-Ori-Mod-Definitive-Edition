@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_defeat.png">
+<SubTexture name="defeat white0000" x="0" y="0" width="497" height="97" frameX="-67" frameY="-23" frameWidth="647" frameHeight="152" />
+<SubTexture name="defeat basic0000" x="0" y="97" width="497" height="97" frameX="-67" frameY="-23" frameWidth="647" frameHeight="152" />
+</TextureAtlas>

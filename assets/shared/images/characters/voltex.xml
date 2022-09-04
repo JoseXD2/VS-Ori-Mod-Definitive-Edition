@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="voltex.png"><SubTexture name="voltex idle0000" x="1320" y="930" width="440" height="423" frameX="-763" frameY="-485" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex idle0001" x="440" y="930" width="440" height="444" frameX="-763" frameY="-464" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex idle0002" x="0" y="480" width="440" height="450" frameX="-763" frameY="-458" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex left0000" x="880" y="930" width="440" height="443" frameX="-763" frameY="-465" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex left0001" x="880" y="480" width="440" height="446" frameX="-763" frameY="-462" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex left0002" x="440" y="480" width="440" height="448" frameX="-763" frameY="-460" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex down0000" x="1760" y="841" width="440" height="405" frameX="-763" frameY="-503" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex down0001" x="1760" y="422" width="440" height="419" frameX="-763" frameY="-489" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex down0002" x="1760" y="0" width="440" height="422" frameX="-763" frameY="-486" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex up0000" x="0" y="0" width="440" height="480" frameX="-763" frameY="-428" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex up0001" x="440" y="0" width="440" height="470" frameX="-763" frameY="-438" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex up0002" x="880" y="0" width="440" height="468" frameX="-763" frameY="-440" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex right0000" x="1320" y="0" width="440" height="445" frameX="-763" frameY="-463" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex right0001" x="1320" y="445" width="440" height="445" frameX="-763" frameY="-463" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="voltex right0002" x="0" y="930" width="440" height="445" frameX="-763" frameY="-463" frameWidth="1980" frameHeight="1080" />
+</TextureAtlas>

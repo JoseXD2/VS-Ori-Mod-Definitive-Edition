@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="altalvar.png"><SubTexture name="altalvar idle0000" x="1894" y="1886" width="924" height="894" frameX="-82" frameY="-74" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar idle0001" x="1012" y="1886" width="882" height="904" frameX="-72" frameY="-88" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar idle0002" x="2314" y="914" width="854" height="892" frameX="-76" frameY="-118" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar up0000" x="2314" y="0" width="858" height="914" frameX="-74" frameY="0" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar up0001" x="1472" y="0" width="842" height="952" frameX="-74" frameY="0" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar left0000" x="0" y="958" width="1542" height="928" frameX="0" frameY="-218" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar left0001" x="0" y="0" width="1472" height="958" frameX="-6" frameY="-218" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar right0000" x="0" y="1886" width="1012" height="910" frameX="-2" frameY="-96" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar right0001" x="3172" y="0" width="1068" height="888" frameX="-2" frameY="-96" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar down0000" x="3172" y="888" width="974" height="834" frameX="-130" frameY="-138" frameWidth="1542" frameHeight="1176" />
+<SubTexture name="altalvar down0001" x="3172" y="1722" width="1040" height="834" frameX="-56" frameY="-138" frameWidth="1542" frameHeight="1176" />
+</TextureAtlas>

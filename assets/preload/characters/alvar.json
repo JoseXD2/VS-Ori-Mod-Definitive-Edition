@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				101,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "alvar left"
+		},
+		{
+			"offsets": [
+				0,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "alvar down"
+		},
+		{
+			"offsets": [
+				64,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "alvar up"
+		},
+		{
+			"offsets": [
+				-30,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "alvar right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 20,
+			"name": "alvar idle",
+			"indices": [
+				0,
+				0,
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/alvar",
+	"position": [
+		-620,
+		-190
+	],
+	"healthicon": "alvar",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		0
+	],
+	"camera_position": [
+		270,
+		260
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SPACEBARTHING.png">
+	<!-- Created with Adobe Animate version 21.0.10.42683 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SPACEBARFAIL0000" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARFAIL0001" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARFAIL0002" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARFAIL0003" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARFAIL0004" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARFAIL0005" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARFAIL0006" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARFAIL0007" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARFAIL0008" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARFAIL0009" x="3" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0000" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0001" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0002" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0003" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0004" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0005" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0006" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0007" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0008" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARSUCCESS0009" x="542" y="3" width="533" height="369"/>
+	<SubTexture name="SPACEBARWARNING0000" x="1081" y="3" width="559" height="403"/>
+	<SubTexture name="SPACEBARWARNING0001" x="1643" y="3" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0002" x="2179" y="3" width="484" height="48" frameX="-19" frameY="-355" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0003" x="2666" y="3" width="456" height="47" frameX="-19" frameY="-356" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0004" x="3125" y="3" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0005" x="3" y="409" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0006" x="539" y="409" width="372" height="43" frameX="-19" frameY="-360" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0007" x="914" y="409" width="344" height="42" frameX="-19" frameY="-361" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0008" x="1261" y="409" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0009" x="1797" y="409" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0010" x="2333" y="409" width="260" height="38" frameX="-19" frameY="-365" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0011" x="2596" y="409" width="232" height="36" frameX="-19" frameY="-367" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0012" x="2831" y="409" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0013" x="3367" y="409" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0014" x="3903" y="409" width="148" height="32" frameX="-19" frameY="-371" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0015" x="3" y="815" width="120" height="31" frameX="-19" frameY="-372" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0016" x="126" y="815" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0017" x="662" y="815" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0018" x="1198" y="815" width="533" height="403" frameX="0" frameY="0" frameWidth="559" frameHeight="403"/>
+	<SubTexture name="SPACEBARWARNING0019" x="1734" y="815" width="5" height="21" frameX="-19" frameY="-378" frameWidth="559" frameHeight="403"/>
+</TextureAtlas>

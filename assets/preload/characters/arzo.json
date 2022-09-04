@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "arzo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "arzo left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "arzo down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "arzo up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-43
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "arzo right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/arzo",
+	"position": [
+		-300,
+		0
+	],
+	"healthicon": "arzo",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-190,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

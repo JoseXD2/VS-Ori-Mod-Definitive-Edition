@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_thirdcatagory.png">
+<SubTexture name="thirdcatagory basic0000" x="0" y="0" width="349" height="415" frameX="-83" frameY="-46" frameWidth="512" frameHeight="609" />
+<SubTexture name="thirdcatagory white0000" x="349" y="0" width="349" height="415" frameX="-83" frameY="-46" frameWidth="512" frameHeight="609" />
+</TextureAtlas>

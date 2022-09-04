@@ -1,0 +1,49 @@
+{
+	"storyName": "Chapter 1",
+	"difficulties": "Standered",
+	"hideFreeplay": false,
+	"weekBackground": "unfinished",
+	"weekBefore": "niwen",
+	"freeplayColor": [
+		51,
+		173,
+		51
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Arzo",
+			"arzo",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Corrupurgation",
+			"arzo",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Defeat",
+			"arzo",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Purgatory"
+}

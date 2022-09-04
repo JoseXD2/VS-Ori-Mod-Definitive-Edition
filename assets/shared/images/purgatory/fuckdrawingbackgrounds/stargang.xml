@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stargang.png"><SubTexture name="stargang gumo dip0000" x="599" y="2517" width="410" height="284" frameX="-628" frameY="-208" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang gumo store0000" x="1980" y="1412" width="377" height="339" frameX="-668" frameY="-189" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang ku exist0000" x="1708" y="1814" width="350" height="562" frameX="-628" frameY="-175" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki peek0000" x="2727" y="1550" width="455" height="473" frameX="-694" frameY="-76" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki hold0000" x="2727" y="1066" width="451" height="484" frameX="-696" frameY="-66" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki laugh0000" x="0" y="1080" width="751" height="734" frameX="-512" frameY="-143" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki laugh0001" x="751" y="1080" width="729" height="734" frameX="-534" frameY="-134" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki wheeze0000" x="1980" y="0" width="747" height="706" frameX="-498" frameY="-157" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki wheeze0001" x="1980" y="706" width="747" height="706" frameX="-498" frameY="-151" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki dies0000" x="2058" y="1814" width="605" height="543" frameX="-630" frameY="-188" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki dies0001" x="0" y="2517" width="599" height="533" frameX="-623" frameY="-184" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki corner0000" x="394" y="1814" width="602" height="647" frameX="-574" frameY="-192" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki corner0001" x="394" y="1814" width="602" height="647" frameX="-574" frameY="-185" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki cryin0000" x="996" y="1814" width="712" height="633" frameX="-640" frameY="-189" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang moki dies0002" x="0" y="0" width="1980" height="1080" frameX="0" frameY="0" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang naru exist0000" x="0" y="1814" width="394" height="703" frameX="-745" frameY="-206" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang naru confused0000" x="1480" y="1080" width="392" height="715" frameX="-744" frameY="-194" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang naru what0000" x="2727" y="534" width="486" height="532" frameX="-733" frameY="-190" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang naru hold0000" x="2727" y="0" width="593" height="534" frameX="-643" frameY="-186" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="stargang naru really0000" x="2727" y="2023" width="372" height="399" frameX="-750" frameY="-193" frameWidth="1980" frameHeight="1080" />
+</TextureAtlas>

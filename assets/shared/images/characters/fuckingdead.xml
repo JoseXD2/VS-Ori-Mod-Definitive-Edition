@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="fuckingdead.png">
+<SubTexture name="therock thing20000" x="0" y="0" width="1197" height="1125" frameX="-31" frameY="-101" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>

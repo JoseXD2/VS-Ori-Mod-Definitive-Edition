@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_shriek-and-ori.png">
+<SubTexture name="shriek-and-ori basic0000" x="0" y="0" width="997" height="97" frameX="-134" frameY="-25" frameWidth="1222" frameHeight="152" />
+<SubTexture name="shriek-and-ori white0000" x="0" y="97" width="997" height="97" frameX="-134" frameY="-25" frameWidth="1222" frameHeight="152" />
+</TextureAtlas>

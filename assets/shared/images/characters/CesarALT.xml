@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CesarALT.png">
+<SubTexture name="CesarALT idle0000" x="996" y="0" width="434" height="890" frameX="-276" frameY="-36" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT idle0001" x="528" y="0" width="468" height="924" frameX="-242" frameY="-2" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT idle0002" x="0" y="0" width="528" height="926" frameX="-182" frameY="0" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT up0000" x="0" y="926" width="612" height="880" frameX="-110" frameY="-54" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT up0001" x="1430" y="0" width="630" height="882" frameX="-112" frameY="-50" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT down0000" x="1046" y="926" width="676" height="670" frameX="-114" frameY="-248" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT down0001" x="710" y="1806" width="738" height="566" frameX="-52" frameY="-352" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT right0000" x="2060" y="0" width="710" height="636" frameX="0" frameY="-290" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT right0001" x="0" y="1806" width="710" height="608" frameX="0" frameY="-318" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT up0002" x="612" y="926" width="434" height="792" frameX="-278" frameY="-134" frameWidth="790" frameHeight="934" />
+<SubTexture name="CesarALT up0003" x="2060" y="636" width="510" height="612" frameX="-278" frameY="-314" frameWidth="790" frameHeight="934" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_corrupurgation.png">
+<SubTexture name="corrupurgation white0000" x="0" y="0" width="1204" height="97" frameX="-9" frameY="-24" frameWidth="1222" frameHeight="152" />
+<SubTexture name="corrupurgation basic0000" x="0" y="97" width="1204" height="97" frameX="-9" frameY="-24" frameWidth="1222" frameHeight="152" />
+</TextureAtlas>

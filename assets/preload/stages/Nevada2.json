@@ -1,0 +1,10 @@
+{
+	"directory": "",
+	"defaultZoom": 0.9,
+	"isPixelStage": false,
+	"isOldSonglol": false,
+
+	"boyfriend": [1110, 1000],
+	"girlfriend": [510, 1000],
+	"opponent": [250, 1000]
+}

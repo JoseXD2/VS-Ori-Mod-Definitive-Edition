@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_purgatory.png">
+<SubTexture name="purgatory basic0000" x="500" y="0" width="500" height="714" frameX="-10" frameY="-4" frameWidth="512" frameHeight="750" />
+<SubTexture name="purgatory white0000" x="0" y="0" width="500" height="715" frameX="-10" frameY="-3" frameWidth="512" frameHeight="750" />
+</TextureAtlas>

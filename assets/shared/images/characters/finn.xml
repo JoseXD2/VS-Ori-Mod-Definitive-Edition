@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="finn.png"><SubTexture name="finn idle0000" x="364" y="674" width="364" height="331" frameX="-68" frameY="-159" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn idle0001" x="1092" y="658" width="364" height="328" frameX="-68" frameY="-162" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn idle0002" x="1092" y="0" width="364" height="329" frameX="-68" frameY="-161" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn idle0003" x="364" y="674" width="364" height="331" frameX="-68" frameY="-159" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn idle0004" x="364" y="339" width="364" height="334" frameX="-68" frameY="-156" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn right0000" x="728" y="0" width="364" height="334" frameX="-73" frameY="-156" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn right0001" x="728" y="334" width="364" height="334" frameX="-71" frameY="-156" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn down0000" x="1092" y="329" width="364" height="329" frameX="-68" frameY="-161" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn down0001" x="728" y="674" width="364" height="331" frameX="-68" frameY="-159" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn left0000" x="0" y="339" width="364" height="335" frameX="-63" frameY="-155" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn left0001" x="0" y="674" width="364" height="334" frameX="-65" frameY="-156" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn up0000" x="0" y="0" width="364" height="339" frameX="-68" frameY="-151" frameWidth="500" frameHeight="500" />
+<SubTexture name="finn up0001" x="364" y="0" width="364" height="337" frameX="-68" frameY="-153" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

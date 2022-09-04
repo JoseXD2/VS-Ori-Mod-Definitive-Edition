@@ -1,0 +1,40 @@
+{
+	"storyName": "Joke",
+	"difficulties": "OLDCHART",
+	"hideFreeplay": false,
+	"weekBackground": "JOKE",
+	"weekBefore": "Niwen",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Starbucks",
+			"nonelmao",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"CEEZARS PIZZA AAAA",
+			"nonelmao",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Joke"
+}

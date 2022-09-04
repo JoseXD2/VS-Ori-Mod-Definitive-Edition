@@ -1,0 +1,49 @@
+{
+	"storyName": "Chapter 2",
+	"difficulties": "Standered",
+	"hideFreeplay": false,
+	"weekBackground": "unfinished",
+	"weekBefore": "niwen",
+	"freeplayColor": [
+		51,
+		173,
+		51
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Think",
+			"ori",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Familiar Faces",
+			"familar-faces",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Destruction",
+			"destruction",
+			[
+				255,
+				100,
+				100
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Purgatory 2"
+}

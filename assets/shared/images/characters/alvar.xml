@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="alvar.png"><SubTexture name="alvar idle0000" x="2718" y="914" width="946" height="912" frameX="-138" frameY="-60" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar idle0001" x="764" y="946" width="1018" height="914" frameX="-156" frameY="-80" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar idle0002" x="2718" y="0" width="976" height="914" frameX="-188" frameY="-86" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar right0000" x="0" y="946" width="764" height="918" frameX="-394" frameY="-198" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar right0001" x="968" y="0" width="762" height="924" frameX="-346" frameY="-184" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar down0000" x="0" y="1864" width="1562" height="886" frameX="-98" frameY="-316" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar down0001" x="1562" y="1864" width="1514" height="846" frameX="-128" frameY="-296" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar up0000" x="0" y="0" width="968" height="946" frameX="-196" frameY="-48" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar up0001" x="1730" y="0" width="988" height="920" frameX="-244" frameY="-80" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar left0000" x="0" y="2750" width="876" height="770" frameX="-274" frameY="-94" frameWidth="1700" frameHeight="1270" />
+<SubTexture name="alvar left0001" x="1782" y="946" width="810" height="808" frameX="-364" frameY="-82" frameWidth="1700" frameHeight="1270" />
+</TextureAtlas>

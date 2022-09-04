@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CEEZARS-PIZZA-AAAA.png"><SubTexture name="CEEZARS-PIZZA-AAAA idle0000" x="739" y="0" width="249" height="378" frameX="-91" frameY="-50" frameWidth="500" frameHeight="500" />
+<SubTexture name="CEEZARS-PIZZA-AAAA up0000" x="0" y="0" width="246" height="383" frameX="-94" frameY="-45" frameWidth="500" frameHeight="500" />
+<SubTexture name="CEEZARS-PIZZA-AAAA right0000" x="246" y="0" width="240" height="382" frameX="-100" frameY="-46" frameWidth="500" frameHeight="500" />
+<SubTexture name="CEEZARS-PIZZA-AAAA left0000" x="486" y="0" width="253" height="380" frameX="-87" frameY="-48" frameWidth="500" frameHeight="500" />
+<SubTexture name="CEEZARS-PIZZA-AAAA down0000" x="0" y="383" width="249" height="375" frameX="-91" frameY="-53" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

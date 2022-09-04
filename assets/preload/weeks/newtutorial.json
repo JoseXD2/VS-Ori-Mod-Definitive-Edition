@@ -1,0 +1,31 @@
+{
+	"storyName": "Learn how to Rap",
+	"difficulties": "Standered",
+	"hideFreeplay": false,
+	"weekBackground": "orihouse",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Practice",
+			"nonelmao",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Nibel"
+}

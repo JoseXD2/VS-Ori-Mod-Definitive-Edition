@@ -1,0 +1,121 @@
+{
+	"storyName": "YOU HAD DONE IT!",
+	"difficulties": "Standered",
+	"hideFreeplay": false,
+	"weekBackground": "Purgatory",
+	"weekBefore": "niwen",
+	"freeplayColor": [
+		51,
+		173,
+		51
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Callback",
+			"ori",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Roundabout",
+			"oriku",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Buddies",
+			"fin",
+			[
+				0,
+				148,
+				255
+			]
+		],
+		[
+			"Firestarter",
+			"nylo",
+			[
+				255,
+				155,
+				255
+			]
+		],
+		[
+			"Final Boss Chan",
+			"nylo",
+			[
+				255,
+				155,
+				255
+			]
+		],
+		[
+			"Vector",
+			"voltex",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"Volt",
+			"voltex",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"RTL Piano",
+			"ori",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Spek",
+			"evilori",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Emergency",
+			"james",
+			[
+				112,
+				255,
+				127
+			]
+		],
+		[
+			"Shriek and Ori",
+			"shriek-and-ori",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Purgatory"
+}

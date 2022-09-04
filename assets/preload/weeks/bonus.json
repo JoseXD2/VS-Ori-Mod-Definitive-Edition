@@ -1,0 +1,31 @@
+{
+	"storyName": "???",
+	"difficulties": "Standered, Brutal, LEGACY",
+	"hideFreeplay": false,
+	"weekBackground": "Nibel_alt",
+	"weekBefore": "niwen",
+	"freeplayColor": [
+		51,
+		173,
+		51
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Trirotation",
+			"evilori",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "???"
+}

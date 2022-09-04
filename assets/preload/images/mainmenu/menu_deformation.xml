@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_deformation.png">
+<SubTexture name="deformation white0000" x="0" y="0" width="187" height="87" frameX="-479" frameY="-26" frameWidth="1222" frameHeight="152" />
+<SubTexture name="deformation basic0000" x="0" y="87" width="187" height="87" frameX="-479" frameY="-26" frameWidth="1222" frameHeight="152" />
+</TextureAtlas>

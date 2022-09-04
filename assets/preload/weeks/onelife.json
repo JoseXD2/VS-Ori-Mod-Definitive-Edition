@@ -1,0 +1,58 @@
+{
+	"storyName": "Fuck You, You're Done!",
+	"difficulties": "ONELIFE, EASIER",
+	"hideFreeplay": true,
+	"weekBackground": "NibelOL",
+	"weekBefore": "niwen",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Spirit Tree",
+			"nonelmao",
+			[
+				200,
+				200,
+				255
+			]
+		],
+		[
+			"Restoring The Light",
+			"nonelmao",
+			[
+				200,
+				200,
+				255
+			]
+		],
+		[
+			"Decay",
+			"nonelmao",
+			[
+				155,
+				0,
+				155
+			]
+		],
+		[
+			"Trirotation",
+			"nonelmao",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Nibel"
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "Joke",
+	"difficulties": "Standered",
+	"hideFreeplay": false,
+	"weekBackground": "JOKE",
+	"weekBefore": "Niwen",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"startUnlocked": false,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"WELL",
+			"nonelmao",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"CORN",
+			"nonelmao",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Deformation",
+			"nightmare-hell",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Joke"
+}

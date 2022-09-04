@@ -1,0 +1,40 @@
+{
+	"storyName": "The Light Of Nibel (FT. Ori)",
+	"difficulties": "Standered, LEGACY",
+	"hideFreeplay": false,
+	"weekBackground": "Nibel",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Spirit Tree",
+			"ori",
+			[
+				200,
+				200,
+				255
+			]
+		],
+		[
+			"Restoring The Light",
+			"ori",
+			[
+				200,
+				200,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Nibel"
+}

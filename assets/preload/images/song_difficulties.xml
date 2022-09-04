@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="song_difficulties.png">
+<SubTexture name="hard0000" x="340" y="125" width="336" height="116" frameX="-95" frameY="-3" frameWidth="512" frameHeight="128" />
+<SubTexture name="extreme0000" x="336" y="0" width="343" height="118" frameX="-95" frameY="-3" frameWidth="512" frameHeight="128" />
+<SubTexture name="easy0000" x="0" y="0" width="336" height="125" frameX="-95" frameY="-3" frameWidth="512" frameHeight="128" />
+<SubTexture name="normal0000" x="0" y="242" width="336" height="116" frameX="-95" frameY="-3" frameWidth="512" frameHeight="128" />
+<SubTexture name="auto0000" x="0" y="125" width="340" height="117" frameX="-95" frameY="-3" frameWidth="512" frameHeight="128" />
+</TextureAtlas>

@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "destio left"
+		},
+		{
+			"offsets": [
+				2,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "destio down"
+		},
+		{
+			"offsets": [
+				1,
+				-1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "destio up"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "destio right"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "destio missleft"
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "destio missdown"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "destio missup"
+		},
+		{
+			"offsets": [
+				2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "destio missright"
+		},
+		{
+			"offsets": [
+				15,
+				1
+			],
+			"loop": false,
+			"fps": 60,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "destio dies"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "look",
+			"indices": [],
+			"name": "destio look"
+		},
+		{
+			"offsets": [
+				4,
+				-2
+			],
+			"loop": false,
+			"fps": 17,
+			"anim": "hurt",
+			"indices": [],
+			"name": "destio hurt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "idle",
+			"indices": [],
+			"name": "destio idle"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "destio ded",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "destio ded",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodgeRIGHT",
+			"fps": 18,
+			"name": "destio dodgeright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodgeUP",
+			"fps": 24,
+			"name": "destio dodgeup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodgeDOWN",
+			"fps": 24,
+			"name": "destio dodgedown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "dodgeLEFT",
+			"fps": 24,
+			"name": "destio dodgeleft",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/destio-og",
+	"position": [
+		30,
+		250
+	],
+	"healthicon": "destio-og",
+	"flip_x": true,
+	"healthbar_colors": [
+		85,
+		255,
+		0
+	],
+	"camera_position": [
+		170,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

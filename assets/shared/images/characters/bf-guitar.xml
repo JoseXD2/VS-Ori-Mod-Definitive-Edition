@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bf-guitar.png"><SubTexture name="bf-guitar hey0000" x="427" y="924" width="416" height="424" frameX="-121" frameY="-42" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar hey0001" x="427" y="924" width="416" height="424" frameX="-121" frameY="-42" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar hey0002" x="1260" y="0" width="426" height="428" frameX="-130" frameY="-50" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar hey0003" x="1260" y="0" width="426" height="428" frameX="-130" frameY="-50" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar hey0004" x="427" y="482" width="427" height="430" frameX="-130" frameY="-48" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar hey0005" x="427" y="482" width="427" height="430" frameX="-130" frameY="-48" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0000" x="1260" y="428" width="425" height="426" frameX="-123" frameY="-62" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0001" x="1260" y="428" width="425" height="426" frameX="-123" frameY="-62" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0002" x="0" y="924" width="427" height="426" frameX="-123" frameY="-61" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0003" x="0" y="924" width="427" height="426" frameX="-123" frameY="-61" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0004" x="843" y="924" width="427" height="424" frameX="-123" frameY="-56" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0005" x="843" y="924" width="427" height="424" frameX="-123" frameY="-56" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0006" x="0" y="482" width="427" height="442" frameX="-126" frameY="-43" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0007" x="0" y="482" width="427" height="442" frameX="-126" frameY="-43" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0008" x="839" y="0" width="421" height="445" frameX="-131" frameY="-42" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar idle0009" x="839" y="0" width="421" height="445" frameX="-131" frameY="-42" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar down0000" x="430" y="1350" width="432" height="389" frameX="-106" frameY="-106" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar down0001" x="430" y="1350" width="432" height="389" frameX="-106" frameY="-106" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar down0002" x="862" y="1350" width="430" height="384" frameX="-104" frameY="-103" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar down0003" x="862" y="1350" width="430" height="384" frameX="-104" frameY="-103" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar left0000" x="1686" y="410" width="435" height="409" frameX="-80" frameY="-52" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar left0001" x="1686" y="410" width="435" height="409" frameX="-80" frameY="-52" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar left0002" x="0" y="1350" width="430" height="407" frameX="-91" frameY="-54" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar left0003" x="0" y="1350" width="430" height="407" frameX="-91" frameY="-54" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar right0000" x="1686" y="819" width="434" height="408" frameX="-165" frameY="-53" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar right0001" x="1686" y="819" width="434" height="408" frameX="-165" frameY="-53" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar right0002" x="1686" y="0" width="442" height="410" frameX="-155" frameY="-51" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar right0003" x="1686" y="0" width="442" height="410" frameX="-155" frameY="-51" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar up0000" x="421" y="0" width="418" height="481" frameX="-143" frameY="-14" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar up0001" x="421" y="0" width="418" height="481" frameX="-143" frameY="-14" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar up0002" x="0" y="0" width="421" height="482" frameX="-143" frameY="-21" frameWidth="697" frameHeight="505" />
+<SubTexture name="bf-guitar up0003" x="0" y="0" width="421" height="482" frameX="-143" frameY="-21" frameWidth="697" frameHeight="505" />
+</TextureAtlas>

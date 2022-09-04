@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sus-gf.png"><SubTexture name="sus-gf dance0000" x="0" y="2576" width="699" height="634" frameX="-44" frameY="-46" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0001" x="699" y="2576" width="703" height="634" frameX="-42" frameY="-46" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0002" x="1402" y="2576" width="703" height="632" frameX="-42" frameY="-48" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0003" x="2105" y="2576" width="699" height="632" frameX="-44" frameY="-48" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0004" x="2793" y="1908" width="698" height="635" frameX="-44" frameY="-45" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0005" x="2095" y="1939" width="698" height="635" frameX="-44" frameY="-45" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0006" x="2094" y="1280" width="699" height="637" frameX="-44" frameY="-43" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0007" x="0" y="0" width="698" height="648" frameX="-44" frameY="-32" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0008" x="698" y="0" width="698" height="648" frameX="-44" frameY="-32" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0009" x="698" y="0" width="698" height="648" frameX="-44" frameY="-32" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0010" x="0" y="648" width="699" height="648" frameX="-44" frameY="-32" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0011" x="0" y="648" width="699" height="648" frameX="-44" frameY="-32" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0012" x="0" y="648" width="699" height="648" frameX="-44" frameY="-32" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0013" x="1396" y="0" width="698" height="648" frameX="-44" frameY="-32" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0014" x="1396" y="0" width="698" height="648" frameX="-44" frameY="-32" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0015" x="1397" y="1939" width="698" height="636" frameX="-44" frameY="-44" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0016" x="2793" y="0" width="703" height="636" frameX="-42" frameY="-44" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0017" x="2793" y="636" width="703" height="636" frameX="-42" frameY="-44" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0018" x="2793" y="1272" width="698" height="636" frameX="-44" frameY="-44" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0019" x="0" y="1939" width="699" height="637" frameX="-44" frameY="-43" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0020" x="699" y="1939" width="698" height="637" frameX="-44" frameY="-43" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0021" x="2094" y="642" width="698" height="638" frameX="-44" frameY="-42" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0022" x="0" y="1296" width="699" height="643" frameX="-44" frameY="-37" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0023" x="0" y="1296" width="699" height="643" frameX="-44" frameY="-37" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0024" x="699" y="1296" width="699" height="643" frameX="-44" frameY="-37" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0025" x="1396" y="648" width="698" height="642" frameX="-44" frameY="-38" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0026" x="1396" y="648" width="698" height="642" frameX="-44" frameY="-38" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0027" x="1396" y="648" width="698" height="642" frameX="-44" frameY="-38" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0028" x="2094" y="0" width="699" height="642" frameX="-44" frameY="-38" frameWidth="780" frameHeight="702" />
+<SubTexture name="sus-gf dance0029" x="2094" y="0" width="699" height="642" frameX="-44" frameY="-38" frameWidth="780" frameHeight="702" />
+</TextureAtlas>

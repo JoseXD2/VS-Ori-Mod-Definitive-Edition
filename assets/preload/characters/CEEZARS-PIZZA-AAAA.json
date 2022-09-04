@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				11,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "CEEZARS-PIZZA-AAAA left"
+		},
+		{
+			"offsets": [
+				0,
+				-10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "CEEZARS-PIZZA-AAAA down"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "CEEZARS-PIZZA-AAAA up"
+		},
+		{
+			"offsets": [
+				-10,
+				-1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "CEEZARS-PIZZA-AAAA right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "CEEZARS-PIZZA-AAAA idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/CEEZARS-PIZZA-AAAA",
+	"position": [
+		-50,
+		170
+	],
+	"healthicon": "pizza",
+	"flip_x": false,
+	"healthbar_colors": [
+		200,
+		200,
+		200
+	],
+	"camera_position": [
+		-300,
+		-160
+	],
+	"sing_duration": 6.1,
+	"scale": 1.6
+}

@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "They got what they deserved. all of them.",
+			"boxState": "normal",
+			"sound": "arzoText",
+			"portrait": "arzo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "A-Arzo?..",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori-player",
+			"speed": 0.1
+		},
+		{
+			"expression": "talk-alt",
+			"text": "Hm?",
+			"boxState": "normal",
+			"portrait": "arzo",
+			"sound": "arzoText",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "What do we have here~",
+			"boxState": "normal",
+			"sound": "arzoText",
+			"portrait": "arzo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Fresh blood.",
+			"boxState": "normal",
+			"sound": "arzoText",
+			"portrait": "arzo",
+			"speed": 0.1
+		},
+		{
+			"expression": "talk",
+			"text": "Arzo.. its me.. Ori..",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori-player",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'll pathe the ground with your blood~",
+			"boxState": "normal",
+			"sound": "arzoText",
+			"portrait": "arzo",
+			"speed": 0.2
+		},
+		{
+			"expression": "talk",
+			"text": "Oh no...",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori-player",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "(I gotta stop him somehow. Maybe I can talk him out of this)",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori-player",
+			"speed": 0.05
+		}
+	]
+}

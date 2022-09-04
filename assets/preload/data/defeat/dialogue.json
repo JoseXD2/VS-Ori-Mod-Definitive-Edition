@@ -1,0 +1,68 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "What! you survived!?",
+			"boxState": "normal",
+			"sound": "arzoText",
+			"portrait": "arzo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "yes...",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori-player",
+			"speed": 0.2
+		},
+		{
+			"expression": "talk-alt",
+			"text": "GRRR",
+			"boxState": "normal",
+			"portrait": "arzo",
+			"sound": "arzoText",
+			"speed": 0.1
+		},
+		{
+			"expression": "talk",
+			"text": "YOU KNOW WHAT",
+			"boxState": "normal",
+			"sound": "arzoText",
+			"portrait": "arzo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "I'M FORCING GHOST TAPPING TO BE DISABLED!",
+			"boxState": "normal",
+			"sound": "arzoText",
+			"portrait": "arzo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "HOW ABOUT YOU TRY AND BEAT THIS PUSSY!",
+			"boxState": "normal",
+			"sound": "arzoText",
+			"portrait": "arzo",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "wtf",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori-player",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "also where are we-",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori-player",
+			"speed": 0.05
+		}
+	]
+}

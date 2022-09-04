@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "What do you think?",
+			"boxState": "normal",
+			"portrait": "ori",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "That wasn't too bad, it was good",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Thank you.",
+			"boxState": "normal",
+			"portrait": "ori",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Dang, we sang through to night in like 2 minutes",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "It really has been 2 minutes, since my phone clock like barely changed",
+			"boxState": "normal",
+			"portrait": "gf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Yeah you came here pretty close to night.",
+			"boxState": "normal",
+			"portrait": "ori",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Apparently, It looked like it was noon now It's plain dark.",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "So uhh maybe another song?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Sure. I'm gonna try a bit harder this time",
+			"boxState": "normal",
+			"portrait": "ori",
+			"speed": 0.05
+		}
+	]
+}

@@ -1,0 +1,354 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "oriforestNew",
+		"player1": "bf",
+		"player2": "ori",
+		"player3": null,
+		"events": [
+			[
+				1612.90322580645,
+				[
+					[
+						"Change Character",
+						"dad",
+						"verywellori"
+					]
+				]
+			],
+			[
+				6774.1935483871,
+				[
+					[
+						"Change Character",
+						"bf",
+						"w"
+					]
+				]
+			],
+			[
+				33548.3870967742,
+				[
+					[
+						"Change Character",
+						"2",
+						"sus-gf"
+					]
+				]
+			],
+			[
+				74516.1290322581,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"700"
+					]
+				]
+			],
+			[
+				74838.7096774194,
+				[
+					[
+						"Add Camera Zoom",
+						".1",
+						""
+					]
+				]
+			],
+			[
+				75161.2903225807,
+				[
+					[
+						"Add Camera Zoom",
+						".1",
+						""
+					]
+				]
+			],
+			[
+				75483.8709677419,
+				[
+					[
+						"Add Camera Zoom",
+						".2",
+						""
+					],
+					[
+						"Change Character",
+						"1",
+						"veryverywellori"
+					]
+				]
+			],
+			[
+				81290.3225806452,
+				[
+					[
+						"Camera Follow Pos",
+						"390",
+						"700"
+					]
+				]
+			],
+			[
+				86451.6129032259,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"700"
+					]
+				]
+			],
+			[
+				91612.9032258065,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"700"
+					]
+				]
+			],
+			[
+				96774.1935483872,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"700"
+					]
+				]
+			],
+			[
+				99354.8387096775,
+				[
+					[
+						"Camera Follow Pos",
+						"390",
+						"700"
+					]
+				]
+			],
+			[
+				101935.483870968,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"700"
+					]
+				]
+			],
+			[
+				104516.129032258,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"700"
+					]
+				]
+			],
+			[
+				107096.774193549,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"700"
+					]
+				]
+			],
+			[
+				109677.419354839,
+				[
+					[
+						"Camera Follow Pos",
+						"390",
+						"700"
+					]
+				]
+			],
+			[
+				112258.064516129,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"700"
+					]
+				]
+			],
+			[
+				114838.70967742,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"700"
+					]
+				]
+			],
+			[
+				117419.35483871,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"700"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Camera Follow Pos",
+						"390",
+						"700"
+					]
+				]
+			],
+			[
+				122580.645161291,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"700"
+					]
+				]
+			],
+			[
+				125161.290322581,
+				[
+					[
+						"Camera Follow Pos",
+						"1000",
+						"700"
+					]
+				]
+			],
+			[
+				129032.258064516,
+				[
+					[
+						"Camera Follow Pos",
+						"250",
+						"700"
+					]
+				]
+			],
+			[
+				129756.048387097,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"well"
+					]
+				]
+			],
+			[
+				130074.596774194,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"well"
+					]
+				]
+			],
+			[
+				130407.258064516,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"well"
+					]
+				]
+			],
+			[
+				130745.967741936,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"well"
+					]
+				]
+			],
+			[
+				131042.338709678,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"well"
+					]
+				]
+			],
+			[
+				131221.774193549,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"well"
+					]
+				]
+			],
+			[
+				131401.20967742,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"well"
+					]
+				]
+			],
+			[
+				131552.419354839,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"well"
+					]
+				]
+			],
+			[
+				131687.5,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"well"
+					]
+				]
+			],
+			[
+				131822.580645162,
+				[
+					[
+						"objectanimplay",
+						"eduar",
+						"idle"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 186,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Well"
+	}
+}

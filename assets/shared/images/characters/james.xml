@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="james.png">
+<SubTexture name="james left0000" x="1637" y="0" width="850" height="1333" frameX="-355" frameY="-7" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james left0001" x="1637" y="0" width="850" height="1333" frameX="-355" frameY="-7" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james left0002" x="1637" y="0" width="850" height="1333" frameX="-355" frameY="-7" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james left0003" x="1637" y="0" width="850" height="1333" frameX="-355" frameY="-7" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james left0004" x="780" y="1342" width="842" height="1316" frameX="-363" frameY="-25" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james left0005" x="780" y="1342" width="842" height="1316" frameX="-363" frameY="-25" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james left0006" x="780" y="1342" width="842" height="1316" frameX="-363" frameY="-25" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james left0007" x="780" y="1342" width="842" height="1316" frameX="-363" frameY="-25" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james idle0000" x="3254" y="0" width="795" height="1313" frameX="-358" frameY="-26" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james idle0001" x="3254" y="0" width="795" height="1313" frameX="-358" frameY="-26" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james idle0002" x="3254" y="0" width="795" height="1313" frameX="-358" frameY="-26" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james idle0003" x="3254" y="0" width="795" height="1313" frameX="-358" frameY="-26" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james idle0004" x="0" y="2659" width="826" height="1299" frameX="-345" frameY="-39" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james idle0005" x="0" y="2659" width="826" height="1299" frameX="-345" frameY="-39" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james idle0006" x="0" y="2659" width="826" height="1299" frameX="-345" frameY="-39" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james idle0007" x="0" y="2659" width="826" height="1299" frameX="-345" frameY="-39" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james down0000" x="0" y="1342" width="780" height="1317" frameX="-337" frameY="-33" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james down0001" x="0" y="1342" width="780" height="1317" frameX="-337" frameY="-33" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james down0002" x="0" y="1342" width="780" height="1317" frameX="-337" frameY="-33" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james down0003" x="0" y="1342" width="780" height="1317" frameX="-337" frameY="-33" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james down0004" x="3254" y="1313" width="754" height="1295" frameX="-356" frameY="-56" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james down0005" x="3254" y="1313" width="754" height="1295" frameX="-356" frameY="-56" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james down0006" x="3254" y="1313" width="754" height="1295" frameX="-356" frameY="-56" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james down0007" x="3254" y="1313" width="754" height="1295" frameX="-356" frameY="-56" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james up0000" x="1622" y="1342" width="932" height="1316" frameX="-238" frameY="-26" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james up0001" x="1622" y="1342" width="932" height="1316" frameX="-238" frameY="-26" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james up0002" x="1622" y="1342" width="932" height="1316" frameX="-238" frameY="-26" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james up0003" x="1622" y="1342" width="932" height="1316" frameX="-238" frameY="-26" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james up0004" x="0" y="0" width="881" height="1342" frameX="-286" frameY="0" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james up0005" x="0" y="0" width="881" height="1342" frameX="-286" frameY="0" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james up0006" x="0" y="0" width="881" height="1342" frameX="-286" frameY="0" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james up0007" x="0" y="0" width="881" height="1342" frameX="-286" frameY="0" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james right0000" x="2487" y="0" width="767" height="1330" frameX="-403" frameY="-12" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james right0001" x="2487" y="0" width="767" height="1330" frameX="-403" frameY="-12" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james right0002" x="2487" y="0" width="767" height="1330" frameX="-403" frameY="-12" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james right0003" x="2487" y="0" width="767" height="1330" frameX="-403" frameY="-12" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james right0004" x="881" y="0" width="756" height="1342" frameX="-410" frameY="0" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james right0005" x="881" y="0" width="756" height="1342" frameX="-410" frameY="0" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james right0006" x="881" y="0" width="756" height="1342" frameX="-410" frameY="0" frameWidth="1378" frameHeight="1378" />
+<SubTexture name="james right0007" x="881" y="0" width="756" height="1342" frameX="-410" frameY="0" frameWidth="1378" frameHeight="1378" />
+</TextureAtlas>

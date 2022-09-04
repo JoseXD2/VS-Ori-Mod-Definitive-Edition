@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cesar.png"><SubTexture name="Cesar idle0000" x="0" y="0" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar idle0001" x="1470" y="0" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar idle0002" x="2940" y="0" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar left0000" x="0" y="1218" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar left0001" x="1470" y="1218" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar right0000" x="2940" y="1218" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar right0001" x="0" y="2436" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar up0000" x="1470" y="2436" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar up0001" x="2940" y="2436" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar down0000" x="0" y="3654" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+<SubTexture name="Cesar down0001" x="1470" y="3654" width="1470" height="1218" frameX="0" frameY="0" frameWidth="1470" frameHeight="1218" />
+</TextureAtlas>

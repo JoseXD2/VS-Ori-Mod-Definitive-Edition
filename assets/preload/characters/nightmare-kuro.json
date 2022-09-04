@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "kuro left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "kuro down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "kuro up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-31,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "kuro right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "kuro idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nightmare_kuro",
+	"position": [
+		-1150,
+		-130
+	],
+	"healthicon": "nightmare-kuro",
+	"flip_x": false,
+	"healthbar_colors": [
+		137,
+		176,
+		255
+	],
+	"camera_position": [
+		-1050,
+		-1780
+	],
+	"sing_duration": 6.1,
+	"scale": 3.1
+}

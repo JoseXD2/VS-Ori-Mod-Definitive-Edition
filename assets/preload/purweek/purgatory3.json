@@ -1,0 +1,49 @@
+{
+	"storyName": "Chapter 3",
+	"difficulties": "Standered",
+	"hideFreeplay": false,
+	"weekBackground": "unfinished",
+	"weekBefore": "niwen",
+	"freeplayColor": [
+		51,
+		173,
+		51
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Arrival",
+			"iro",
+			[
+				155,
+				50,
+				50
+			]
+		],
+		[
+			"Escape",
+			"iro",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"Upheaval",
+			"darkori",
+			[
+				50,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Purgatory 3"
+}

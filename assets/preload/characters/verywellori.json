@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				151,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "ori left"
+		},
+		{
+			"offsets": [
+				39,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "ori down"
+		},
+		{
+			"offsets": [
+				74,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "ori up"
+		},
+		{
+			"offsets": [
+				-18,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "ori right"
+		},
+		{
+			"offsets": [
+				1,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "ori idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/EduardoOri",
+	"position": [
+		-100,
+		140
+	],
+	"healthicon": "eduori",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		50,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 0.7
+}

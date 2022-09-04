@@ -1,0 +1,31 @@
+{
+	"storyName": "OLD Songs",
+	"difficulties": "Standered, OneLife, Alpha",
+	"hideFreeplay": true,
+	"weekBackground": "OLD",
+	"weekBefore": "atutorial",
+	"freeplayColor": [
+		255,
+		55,
+		55
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Shrieker",
+			"nonelmao",
+			[
+				100,
+				0,
+				255
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "old"
+}

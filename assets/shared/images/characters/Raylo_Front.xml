@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Raylo_Front.png">
+<SubTexture name="raylo idle0000" x="1195" y="284" width="307" height="280" frameX="-180" frameY="-220" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo idle0001" x="0" y="647" width="307" height="289" frameX="-180" frameY="-211" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo idle0002" x="307" y="647" width="307" height="286" frameX="-180" frameY="-214" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo idle0003" x="1195" y="0" width="307" height="284" frameX="-180" frameY="-216" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo up0000" x="1195" y="564" width="307" height="280" frameX="-180" frameY="-220" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo up0001" x="0" y="936" width="300" height="272" frameX="-180" frameY="-228" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo up0002" x="300" y="936" width="307" height="270" frameX="-180" frameY="-230" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo down0000" x="576" y="353" width="286" height="291" frameX="-207" frameY="-209" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo down0001" x="0" y="353" width="290" height="294" frameX="-207" frameY="-206" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo down0002" x="290" y="353" width="286" height="294" frameX="-207" frameY="-206" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo left0000" x="614" y="647" width="293" height="285" frameX="-194" frameY="-215" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo left0001" x="907" y="0" width="288" height="291" frameX="-194" frameY="-209" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo left0002" x="614" y="0" width="293" height="295" frameX="-194" frameY="-205" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo right0000" x="607" y="936" width="300" height="265" frameX="-187" frameY="-235" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo right0001" x="907" y="936" width="307" height="263" frameX="-187" frameY="-237" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo right0002" x="0" y="1208" width="300" height="259" frameX="-187" frameY="-241" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo miss0000" x="307" y="0" width="307" height="346" frameX="-180" frameY="-154" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo miss0001" x="307" y="0" width="307" height="346" frameX="-180" frameY="-154" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo miss0002" x="0" y="0" width="307" height="353" frameX="-180" frameY="-147" frameWidth="500" frameHeight="500" />
+<SubTexture name="raylo miss0003" x="0" y="0" width="307" height="353" frameX="-180" frameY="-147" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

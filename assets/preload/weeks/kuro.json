@@ -1,0 +1,50 @@
+{
+	"storyName": "STUPID FUCKING KID AND STUPID FUCKING CAT\nFIGHTING AGAINST STUPID FUCKING BIRD\n",
+	"difficulties": "Standered",
+	"hideFreeplay": false,
+	"weekBackground": "Kuro",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"weekBefore": "fuckyou",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Horu",
+			"nonelmao",
+			[
+				87,
+				73,
+				141
+			]
+		],
+		[
+			"Fleeing",
+			"nonelmao",
+			[
+				87,
+				73,
+				141
+			]
+		],
+		[
+			"Light",
+			"nonelmao",
+			[
+				255,
+				60,
+				100
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Kuro"
+}

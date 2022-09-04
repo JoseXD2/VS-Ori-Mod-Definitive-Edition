@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="static_icons.png">
+<SubTexture name="oriku winning0000" x="426" y="0" width="136" height="103" frameX="0" frameY="-9" frameWidth="150" frameHeight="150" />
+<SubTexture name="oriku healthy0000" x="426" y="103" width="136" height="103" frameX="0" frameY="-9" frameWidth="150" frameHeight="150" />
+<SubTexture name="oriku hurt0000" x="426" y="206" width="136" height="103" frameX="-1" frameY="-6" frameWidth="150" frameHeight="150" />
+<SubTexture name="nightmare ori0000" x="278" y="285" width="106" height="109" frameX="-21" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="nightmare kuro winning0000" x="261" y="146" width="139" height="134" frameX="-7" frameY="-13" frameWidth="150" frameHeight="150" />
+<SubTexture name="nightmare kuro0000" x="0" y="285" width="139" height="134" frameX="-7" frameY="-13" frameWidth="150" frameHeight="150" />
+<SubTexture name="nightmare kuro hurt0000" x="139" y="285" width="139" height="134" frameX="-7" frameY="-13" frameWidth="150" frameHeight="150" />
+<SubTexture name="nightmare shriek winning0000" x="0" y="146" width="129" height="139" frameX="-15" frameY="-5" frameWidth="150" frameHeight="150" />
+<SubTexture name="nightmare shriek0000" x="129" y="146" width="132" height="136" frameX="-5" frameY="-5" frameWidth="150" frameHeight="150" />
+<SubTexture name="cpu winning0000" x="426" y="309" width="97" height="100" frameX="-34" frameY="-20" frameWidth="150" frameHeight="150" />
+<SubTexture name="cpu healthy0000" x="97" y="419" width="97" height="98" frameX="-31" frameY="-19" frameWidth="150" frameHeight="150" />
+<SubTexture name="cpu hurt0000" x="194" y="419" width="97" height="98" frameX="-31" frameY="-22" frameWidth="150" frameHeight="150" />
+<SubTexture name="player winning0000" x="0" y="419" width="97" height="100" frameX="-34" frameY="-20" frameWidth="150" frameHeight="150" />
+<SubTexture name="player healthy0000" x="291" y="419" width="97" height="98" frameX="-31" frameY="-19" frameWidth="150" frameHeight="150" />
+<SubTexture name="player hurt0000" x="388" y="419" width="97" height="98" frameX="-31" frameY="-22" frameWidth="150" frameHeight="150" />
+<SubTexture name="voltex winning0000" x="0" y="0" width="142" height="146" frameX="-28" frameY="-31" frameWidth="200" frameHeight="200" />
+<SubTexture name="voltex healthy0000" x="142" y="0" width="142" height="146" frameX="-28" frameY="-31" frameWidth="200" frameHeight="200" />
+<SubTexture name="voltex hurt0000" x="284" y="0" width="142" height="146" frameX="-28" frameY="-31" frameWidth="200" frameHeight="200" />
+</TextureAtlas>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="main_icons.png">
+<SubTexture name="bf healthy0000" x="128" y="657" width="130" height="91" frameX="-9" frameY="-37" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf healthy0001" x="258" y="657" width="130" height="91" frameX="-15" frameY="-47" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf healthy0002" x="388" y="657" width="130" height="91" frameX="-15" frameY="-42" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf healthy0003" x="518" y="657" width="130" height="91" frameX="-9" frameY="-37" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf hurt0000" x="774" y="0" width="130" height="91" frameX="-9" frameY="-37" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf hurt0001" x="774" y="445" width="130" height="79" frameX="-9" frameY="-48" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf hurt0002" x="774" y="361" width="130" height="84" frameX="-9" frameY="-43" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf hurt0003" x="774" y="273" width="130" height="88" frameX="-9" frameY="-39" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf scared0000" x="0" y="232" width="137" height="112" frameX="-9" frameY="-16" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf scared0001" x="214" y="0" width="134" height="114" frameX="-8" frameY="-14" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf scared0002" x="348" y="0" width="140" height="109" frameX="-10" frameY="-19" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf scared0003" x="137" y="232" width="138" height="110" frameX="-9" frameY="-18" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf winning0000" x="774" y="91" width="130" height="91" frameX="-9" frameY="-37" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf winning0001" x="627" y="557" width="128" height="94" frameX="-10" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf winning0002" x="0" y="657" width="128" height="92" frameX="-10" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="bf winning0003" x="774" y="182" width="130" height="91" frameX="-11" frameY="-37" frameWidth="150" frameHeight="150" />
+<SubTexture name="pixeel bf idle0000" x="488" y="0" width="143" height="107" frameX="-2" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0001" x="488" y="0" width="143" height="107" frameX="0" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0002" x="631" y="202" width="143" height="100" frameX="-2" frameY="-6" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0003" x="631" y="202" width="143" height="100" frameX="0" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0004" x="0" y="557" width="147" height="100" frameX="0" frameY="-8" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0005" x="0" y="557" width="147" height="100" frameX="0" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0006" x="436" y="453" width="148" height="101" frameX="0" frameY="-8" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0007" x="436" y="453" width="148" height="101" frameX="0" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0008" x="436" y="453" width="148" height="101" frameX="0" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0009" x="436" y="453" width="148" height="101" frameX="0" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0010" x="436" y="453" width="148" height="101" frameX="0" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0011" x="436" y="453" width="148" height="101" frameX="0" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0012" x="147" y="557" width="147" height="100" frameX="0" frameY="-8" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixeel bf idle0013" x="147" y="557" width="147" height="100" frameX="0" frameY="0" frameWidth="148" frameHeight="109" />
+<SubTexture name="pixel bf lose0000" x="631" y="302" width="143" height="100" frameX="0" frameY="-1" frameWidth="143" frameHeight="101" />
+<SubTexture name="pixel bf lose0001" x="631" y="302" width="143" height="100" frameX="0" frameY="0" frameWidth="143" frameHeight="101" />
+<SubTexture name="pixel bf lose0002" x="631" y="402" width="143" height="99" frameX="0" frameY="-2" frameWidth="143" frameHeight="101" />
+<SubTexture name="pixel bf lose0003" x="631" y="402" width="143" height="99" frameX="0" frameY="0" frameWidth="143" frameHeight="101" />
+<SubTexture name="pixel bf lose0004" x="631" y="0" width="143" height="101" frameX="0" frameY="0" frameWidth="143" frameHeight="101" />
+<SubTexture name="pixel bf lose0005" x="631" y="0" width="143" height="101" frameX="0" frameY="0" frameWidth="143" frameHeight="101" />
+<SubTexture name="pixel bfwin0000" x="107" y="118" width="142" height="113" frameX="-1" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0001" x="107" y="118" width="142" height="113" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0002" x="0" y="453" width="143" height="104" frameX="-1" frameY="-2" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0003" x="0" y="453" width="143" height="104" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0004" x="143" y="453" width="146" height="103" frameX="0" frameY="-3" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0005" x="143" y="453" width="146" height="103" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0006" x="289" y="453" width="147" height="102" frameX="0" frameY="-4" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0007" x="289" y="453" width="147" height="102" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0008" x="289" y="453" width="147" height="102" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0009" x="289" y="453" width="147" height="102" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0010" x="289" y="453" width="147" height="102" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0011" x="289" y="453" width="147" height="102" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0012" x="289" y="453" width="147" height="102" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="pixel bfwin0013" x="289" y="453" width="147" height="102" frameX="0" frameY="0" frameWidth="147" frameHeight="113" />
+<SubTexture name="gf icons0000" x="631" y="101" width="111" height="101" frameX="-20" frameY="-21" frameWidth="150" frameHeight="150" />
+<SubTexture name="gf icons0001" x="516" y="557" width="111" height="96" frameX="-20" frameY="-27" frameWidth="150" frameHeight="150" />
+<SubTexture name="gf icons0002" x="294" y="557" width="111" height="98" frameX="-20" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="gf icons0003" x="405" y="557" width="111" height="98" frameX="-20" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="face winning0000" x="488" y="107" width="107" height="107" frameX="-22" frameY="-22" frameWidth="150" frameHeight="150" />
+<SubTexture name="face winning0001" x="0" y="0" width="107" height="118" frameX="-22" frameY="-10" frameWidth="150" frameHeight="150" />
+<SubTexture name="face winning0002" x="107" y="0" width="107" height="115" frameX="-22" frameY="-13" frameWidth="150" frameHeight="150" />
+<SubTexture name="face winning0003" x="0" y="118" width="107" height="114" frameX="-22" frameY="-14" frameWidth="150" frameHeight="150" />
+<SubTexture name="face healthy0000" x="488" y="214" width="107" height="107" frameX="-22" frameY="-22" frameWidth="150" frameHeight="150" />
+<SubTexture name="face healthy0001" x="348" y="109" width="108" height="109" frameX="-21" frameY="-21" frameWidth="150" frameHeight="150" />
+<SubTexture name="face healthy0002" x="348" y="218" width="109" height="109" frameX="-21" frameY="-21" frameWidth="150" frameHeight="150" />
+<SubTexture name="face healthy0003" x="0" y="344" width="109" height="109" frameX="-21" frameY="-21" frameWidth="150" frameHeight="150" />
+<SubTexture name="face hurt0000" x="488" y="321" width="107" height="107" frameX="-22" frameY="-22" frameWidth="150" frameHeight="150" />
+<SubTexture name="face hurt0001" x="109" y="344" width="109" height="109" frameX="-21" frameY="-21" frameWidth="150" frameHeight="150" />
+<SubTexture name="face hurt0002" x="218" y="344" width="109" height="109" frameX="-21" frameY="-21" frameWidth="150" frameHeight="150" />
+<SubTexture name="face hurt0003" x="327" y="344" width="109" height="109" frameX="-21" frameY="-21" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

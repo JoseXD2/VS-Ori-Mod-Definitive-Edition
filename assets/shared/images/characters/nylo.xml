@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nylo.png"><SubTexture name="nylo idle0000" x="1320" y="939" width="440" height="437" frameX="-763" frameY="-471" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo idle0001" x="880" y="939" width="440" height="447" frameX="-763" frameY="-461" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo idle0002" x="440" y="488" width="440" height="450" frameX="-763" frameY="-458" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo left0000" x="0" y="939" width="440" height="449" frameX="-763" frameY="-459" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo left0001" x="0" y="488" width="440" height="451" frameX="-763" frameY="-457" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo left0002" x="880" y="488" width="440" height="450" frameX="-763" frameY="-458" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo down0000" x="1760" y="840" width="440" height="409" frameX="-763" frameY="-499" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo down0001" x="1760" y="422" width="440" height="418" frameX="-763" frameY="-490" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo down0002" x="1760" y="0" width="440" height="422" frameX="-763" frameY="-486" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo up0000" x="0" y="0" width="440" height="488" frameX="-763" frameY="-420" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo up0001" x="440" y="0" width="440" height="477" frameX="-763" frameY="-431" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo up0002" x="880" y="0" width="440" height="474" frameX="-763" frameY="-434" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo right0000" x="440" y="939" width="440" height="448" frameX="-763" frameY="-460" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo right0001" x="1320" y="0" width="440" height="450" frameX="-763" frameY="-458" frameWidth="1980" frameHeight="1080" />
+<SubTexture name="nylo right0002" x="1320" y="450" width="440" height="450" frameX="-763" frameY="-458" frameWidth="1980" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="classic_icons_assets.png">
+<SubTexture name="og bf winning0000" x="672" y="662" width="138" height="83" frameX="-1" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="og bf healthy0000" x="534" y="662" width="138" height="88" frameX="-1" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="og bf hurt0000" x="396" y="662" width="138" height="90" frameX="0" frameY="-15" frameWidth="150" frameHeight="150" />
+<SubTexture name="og ori healthy0000" x="105" y="149" width="104" height="143" frameX="-2" frameY="-6" frameWidth="150" frameHeight="150" />
+<SubTexture name="og ori hurt0000" x="0" y="0" width="112" height="149" frameX="0" frameY="-1" frameWidth="150" frameHeight="150" />
+<SubTexture name="og shriek healthy0000" x="107" y="294" width="120" height="136" frameX="-30" frameY="-5" frameWidth="150" frameHeight="150" />
+<SubTexture name="og shriek hurt0000" x="0" y="294" width="107" height="139" frameX="-43" frameY="-1" frameWidth="150" frameHeight="150" />
+<SubTexture name="og ori pastel winning0000" x="0" y="662" width="132" height="92" frameX="-1" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="og ori pastel healthy0000" x="132" y="662" width="132" height="92" frameX="-1" frameY="-24" frameWidth="150" frameHeight="150" />
+<SubTexture name="og ori pastel hurt0000" x="264" y="662" width="132" height="92" frameX="-1" frameY="-22" frameWidth="150" frameHeight="150" />
+<SubTexture name="alvar alt healthy0000" x="0" y="558" width="127" height="104" frameX="-11" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="alvar alt hurt0000" x="127" y="558" width="127" height="104" frameX="-12" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="alvar healthy0000" x="254" y="558" width="127" height="104" frameX="-12" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="alvar hurt0000" x="381" y="558" width="127" height="104" frameX="-12" frameY="-7" frameWidth="150" frameHeight="150" />
+<SubTexture name="og arzo healthy0000" x="508" y="558" width="105" height="102" frameX="-17" frameY="-20" frameWidth="150" frameHeight="150" />
+<SubTexture name="og arzo hurt0000" x="613" y="558" width="105" height="102" frameX="-17" frameY="-20" frameWidth="150" frameHeight="150" />
+<SubTexture name="og arzo winning0000" x="757" y="0" width="113" height="102" frameX="-17" frameY="-20" frameWidth="150" frameHeight="150" />
+<SubTexture name="beta bf healthy0000" x="757" y="191" width="97" height="84" frameX="-28" frameY="-30" frameWidth="150" frameHeight="150" />
+<SubTexture name="beta bf hurt0000" x="757" y="102" width="107" height="89" frameX="-13" frameY="-29" frameWidth="150" frameHeight="150" />
+<SubTexture name="cesar alt healthy0000" x="757" y="275" width="86" height="67" frameX="-28" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="cesar alt hurt0000" x="757" y="342" width="86" height="67" frameX="-28" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="cesar alt winning0000" x="757" y="409" width="86" height="67" frameX="-28" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="cesar healthy0000" x="757" y="476" width="86" height="67" frameX="-28" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="cesar hurt0000" x="757" y="543" width="86" height="67" frameX="-28" frameY="-36" frameWidth="150" frameHeight="150" />
+<SubTexture name="gystero healthy0000" x="227" y="294" width="129" height="127" frameX="-12" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="gystero hurt0000" x="356" y="294" width="129" height="127" frameX="-13" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="gystero winning0000" x="528" y="0" width="129" height="127" frameX="-12" frameY="-12" frameWidth="150" frameHeight="150" />
+<SubTexture name="og albert0000" x="112" y="0" width="122" height="148" frameX="-17" frameY="-1" frameWidth="150" frameHeight="150" />
+<SubTexture name="og doger0000" x="0" y="433" width="147" height="125" frameX="-2" frameY="-10" frameWidth="150" frameHeight="150" />
+<SubTexture name="og rae0000" x="445" y="433" width="148" height="117" frameX="-1" frameY="-10" frameWidth="150" frameHeight="150" />
+<SubTexture name="og voltex hurt0000" x="147" y="433" width="149" height="125" frameX="0" frameY="-10" frameWidth="150" frameHeight="150" />
+<SubTexture name="og voltex healthy0000" x="296" y="433" width="149" height="125" frameX="0" frameY="-10" frameWidth="150" frameHeight="150" />
+<SubTexture name="og pixel bf0000" x="528" y="345" width="122" height="84" frameX="-14" frameY="-33" frameWidth="150" frameHeight="150" />
+<SubTexture name="cesar pizza healthy0000" x="657" y="0" width="100" height="105" frameX="-27" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="cesar pizza hurt0000" x="528" y="238" width="102" height="107" frameX="-34" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="cesar pizza winning0000" x="528" y="127" width="106" height="111" frameX="-23" frameY="-25" frameWidth="150" frameHeight="150" />
+<SubTexture name="eduori healthy0000" x="381" y="143" width="105" height="142" frameX="-2" frameY="-6" frameWidth="150" frameHeight="150" />
+<SubTexture name="eduori hurt0000" x="0" y="149" width="105" height="145" frameX="-2" frameY="-3" frameWidth="150" frameHeight="150" />
+<SubTexture name="og bfori healthy0000" x="209" y="149" width="147" height="143" frameX="0" frameY="0" frameWidth="150" frameHeight="150" />
+<SubTexture name="og bfori hurt0000" x="234" y="0" width="147" height="148" frameX="0" frameY="0" frameWidth="150" frameHeight="150" />
+<SubTexture name="og bfori winning0000" x="381" y="0" width="147" height="143" frameX="0" frameY="0" frameWidth="150" frameHeight="150" />
+</TextureAtlas>

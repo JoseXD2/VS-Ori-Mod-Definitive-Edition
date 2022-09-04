@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 3.5,
+		"stage": "cliff",
+		"player1": "raylo-front",
+		"player2": "gone3",
+		"player3": null,
+		"events": [
+			[
+				38400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nightmare-ori"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gone3"
+					]
+				]
+			],
+			[
+				153600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nightmare-kuro"
+					]
+				]
+			],
+			[
+				249600,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gone3"
+					]
+				]
+			],
+			[
+				288000,
+				[
+					[
+						"Change Character",
+						"dad",
+						"nightmare-shriek"
+					]
+				]
+			],
+			[
+				367200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"gone3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nogf",
+		"bpm": 200,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Deformation"
+	}
+}

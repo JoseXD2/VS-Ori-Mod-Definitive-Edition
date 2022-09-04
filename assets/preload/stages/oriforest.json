@@ -1,0 +1,14 @@
+{
+	"directory": "",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+	"isOldSonglol": false,
+
+	"boyfriend": [1110, 300],
+	"girlfriend": [510, 300],
+	"opponent": [250, 280],
+
+	"camera_boyfriend": [0, -100],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0]
+}

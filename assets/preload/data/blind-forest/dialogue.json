@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Hello again, I have another song for you",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "What is it?",
+			"boxState": "normal",
+			"sound": "boyfriendText",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Blind Forest",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Isn't that the title of the first game-",
+			"boxState": "normal",
+			"sound": "boyfriendText",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "A almost 3 hour long song",
+			"boxState": "normal",
+			"sound": "oriText",
+			"portrait": "ori",
+			"speed": 0.05
+		},
+		{
+			"expression": "confused",
+			"text": "...",
+			"boxState": "normal",
+			"sound": "boyfriendText",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}
