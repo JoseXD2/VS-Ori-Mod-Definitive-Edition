@@ -1,4 +1,4 @@
-# VS-Ori-Mod-Spirit-Edition
+# VS Ori: Definitive Edition and Spirit Purgatory
 This is the VS Ori Definitive Edition Source Code
 
 You can see my horrible coding skills because this was a mod
