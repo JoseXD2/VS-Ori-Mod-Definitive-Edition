@@ -11,14 +11,14 @@ recode this mod lol.
 
 And also me not knowing how to use git hub lmao
 # Mod Credits
-Classic1926 - Creator of the mod, Main Programmer, and Artist
-Alucardseibie21 - Artist and Composer
-Doger2793 - Artist, Lua Scripter, and Charter
-RaeTheSpirit - Artist and Composer
-Voltex - Composer
-OuroborosFinis - Charter
-James Jamestar - Composer
-TheZoeGaming12 - Artist
-8-10 fnf - Artist
-FlDyDm - Artist
-SkyBlueRed - Artist
+Classic1926 - Creator of the mod, Main Programmer, and Artist<br>
+Alucardseibie21 - Artist and Composer<br>
+Doger2793 - Artist, Lua Scripter, and Charter<br>
+RaeTheSpirit - Artist and Composer<br>
+Voltex - Composer<br>
+OuroborosFinis - Charter<br>
+James Jamestar - Composer<br>
+TheZoeGaming12 - Artist<br>
+8-10 fnf - Artist<br>
+FlDyDm - Artist<br>
+SkyBlueRed - Artist<br>
