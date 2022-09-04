@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BLUE.png"><SubTexture name="BLUE idle0000" x="0" y="0" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE idle0001" x="864" y="0" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE idle0002" x="1728" y="0" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE idle0003" x="2592" y="0" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE up0000" x="0" y="970" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE up0001" x="864" y="970" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE up0002" x="1728" y="970" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE right0000" x="2592" y="970" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE right0001" x="0" y="1940" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE right0002" x="864" y="1940" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE left0000" x="1728" y="1940" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE left0001" x="2592" y="1940" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE left0002" x="0" y="2910" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE down0000" x="864" y="2910" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE down0001" x="1728" y="2910" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="BLUE down0002" x="2592" y="2910" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+</TextureAtlas>

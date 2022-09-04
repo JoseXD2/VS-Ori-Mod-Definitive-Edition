@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SalnEXPUNGED.png"><SubTexture name="SalnEXPUNGED idle0000" x="0" y="0" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED idle0001" x="794" y="0" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED idle0002" x="1588" y="0" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED idle0003" x="0" y="809" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED left0000" x="794" y="809" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED left0001" x="1588" y="809" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED down0000" x="0" y="1618" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED down0001" x="794" y="1618" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED right0000" x="1588" y="1618" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED right0001" x="0" y="2427" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED up0000" x="794" y="2427" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+<SubTexture name="SalnEXPUNGED up0001" x="1588" y="2427" width="794" height="809" frameX="0" frameY="0" frameWidth="794" frameHeight="809" />
+</TextureAtlas>

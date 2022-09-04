@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DisabledFinn.png"><SubTexture name="DisabledFinn idle0000" x="0" y="0" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn idle0001" x="531" y="0" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn idle0002" x="1062" y="0" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn idle0003" x="1593" y="0" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn down0000" x="0" y="688" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn down0001" x="531" y="688" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn down0002" x="1062" y="688" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn down miss0000" x="1593" y="688" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn left0000" x="0" y="1376" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn left0001" x="531" y="1376" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn left0002" x="1062" y="1376" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn left miss0000" x="1593" y="1376" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn right0000" x="0" y="2064" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn right0001" x="531" y="2064" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn right0002" x="1062" y="2064" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn right miss0000" x="1593" y="2064" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn up0000" x="0" y="2752" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn up0001" x="531" y="2752" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn up0002" x="1062" y="2752" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+<SubTexture name="DisabledFinn up miss0000" x="1593" y="2752" width="531" height="688" frameX="0" frameY="0" frameWidth="531" frameHeight="688" />
+</TextureAtlas>

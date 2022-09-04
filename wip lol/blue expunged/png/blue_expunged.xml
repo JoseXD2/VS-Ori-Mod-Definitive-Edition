@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="blue_expunged.png"><SubTexture name="blue_expunged idle0000" x="0" y="0" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged idle0001" x="864" y="0" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged idle0002" x="1728" y="0" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged left0000" x="0" y="970" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged left0001" x="864" y="970" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged down0000" x="1728" y="970" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged down0001" x="0" y="1940" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged right0000" x="864" y="1940" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged right0001" x="1728" y="1940" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged up0000" x="0" y="2910" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged up0001" x="864" y="2910" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged what0000" x="1728" y="2910" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged what0001" x="0" y="3880" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+<SubTexture name="blue_expunged gone0000" x="864" y="3880" width="864" height="970" frameX="0" frameY="0" frameWidth="864" frameHeight="970" />
+</TextureAtlas>

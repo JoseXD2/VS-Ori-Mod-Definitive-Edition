@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="menu_think.png">
+<SubTexture name="think white0000" x="0" y="0" width="390" height="97" frameX="-119" frameY="-27" frameWidth="647" frameHeight="152" />
+<SubTexture name="think basic0000" x="0" y="97" width="390" height="97" frameX="-119" frameY="-27" frameWidth="647" frameHeight="152" />
+</TextureAtlas>

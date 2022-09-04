@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="selectsong_icons.png">
+<SubTexture name="arzo vs ori0000" x="266" y="136" width="258" height="109" frameX="-21" frameY="-24" frameWidth="300" frameHeight="150" />
+<SubTexture name="finn vs ori0000" x="0" y="136" width="266" height="128" frameX="-13" frameY="-15" frameWidth="300" frameHeight="150" />
+<SubTexture name="shriek old vs ori pastel0000" x="0" y="0" width="266" height="136" frameX="-30" frameY="-5" frameWidth="300" frameHeight="150" />
+<SubTexture name="something vs raylo0000" x="266" y="0" width="267" height="136" frameX="-16" frameY="-8" frameWidth="300" frameHeight="150" />
+</TextureAtlas>

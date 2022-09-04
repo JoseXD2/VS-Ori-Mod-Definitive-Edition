@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FinnScared.png"><SubTexture name="FinnScared idle0000" x="0" y="0" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared idle0001" x="676" y="0" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared idle0002" x="1352" y="0" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared idle0003" x="2028" y="0" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared left0000" x="2704" y="0" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared left0001" x="0" y="734" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared left0002" x="676" y="734" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared left miss0000" x="1352" y="734" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared down00000" x="2028" y="734" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared down00001" x="2704" y="734" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared down00002" x="0" y="1468" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared down miss0000" x="676" y="1468" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared right00000" x="1352" y="1468" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared right00001" x="2028" y="1468" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared right00002" x="2704" y="1468" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared right miss0000" x="0" y="2202" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared up00000" x="676" y="2202" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared up00001" x="1352" y="2202" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared up00002" x="2028" y="2202" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared up miss0000" x="2704" y="2202" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared protect0000" x="0" y="2936" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared protect0001" x="676" y="2936" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared protect0002" x="1352" y="2936" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared hurt0000" x="2028" y="2936" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared hurt0001" x="2704" y="2936" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+<SubTexture name="FinnScared hurt0002" x="0" y="3670" width="676" height="734" frameX="0" frameY="0" frameWidth="676" frameHeight="734" />
+</TextureAtlas>
