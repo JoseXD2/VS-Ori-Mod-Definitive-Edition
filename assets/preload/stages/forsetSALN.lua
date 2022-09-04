@@ -1,6 +1,6 @@
 function onCreate()
 
-	
+
 	makeLuaSprite('treeeees','purgatory/hellforest/trees',100,150)
 	setProperty('treeeees.scale.x', getProperty('treeeees.scale.x') + 1);
 	setProperty('treeeees.scale.y', getProperty('treeeees.scale.y') + 1);
