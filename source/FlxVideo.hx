@@ -3,12 +3,13 @@ import openfl.net.NetConnection;
 import openfl.net.NetStream;
 import openfl.events.NetStatusEvent;
 import openfl.media.Video;
+#elseif android
+import extension.videoview.VideoView;
+import extension.androidtools;
 #else
 import openfl.events.Event;
 import vlc.VlcBitmap;
 #end
-import flixel.FlxBasic;
-import flixel.FlxG;
 
 class FlxVideo extends FlxBasic {
 	#if VIDEOS_ALLOWED
