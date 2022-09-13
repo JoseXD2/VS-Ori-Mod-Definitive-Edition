@@ -8,10 +8,8 @@ import lime.utils.AssetManifest;
 #if sys
 import sys.io.File;
 import sys.FileSystem;
-#else
-import openfl.utils.Assets;
 #end
-
+import openfl.utils.Assets;
 using StringTools;
 
 class CoolUtil
@@ -52,7 +50,7 @@ class CoolUtil
 	public static function coolTextFile(path:String):Array<String>
 	{
 		var daList:Array<String> = [];
-		#if sys
+		#if desktop
 		if(FileSystem.exists(path)) daList = File.getContent(path).trim().split('\n');
 		#else
 		if(Assets.exists(path)) daList = Assets.getText(path).trim().split('\n');
