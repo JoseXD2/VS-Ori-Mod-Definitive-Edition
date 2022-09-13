@@ -934,12 +934,12 @@ class PlayState extends MusicBeatState
 		blammedLightsBlack = modchartSprites.get('blammedLightsBlack');
 		blammedLightsBlack.alpha = 0.0;
 
-		#if windows
+		
 		screenshader.waveAmplitude = 1;
-        screenshader.waveFrequency = 2;
-        screenshader.waveSpeed = 1;
-        screenshader.shader.uTime.value[0] = new flixel.math.FlxRandom().float(-100000, 100000);
-		#end
+                screenshader.waveFrequency = 2;
+                screenshader.waveSpeed = 1;
+                screenshader.shader.uTime.value[0] = new flixel.math.FlxRandom().float(-100000, 100000);
+		
 
 		var gfVersion:String = SONG.gfVersion;
 		if(gfVersion == null || gfVersion.length < 1) {
