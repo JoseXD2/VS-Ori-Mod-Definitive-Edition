@@ -177,6 +177,10 @@ class CharacterSelectState extends MusicBeatState
 		cock2.text = '(Character animation enabled, press shift again to disable)';
 		cock2.setFormat(Paths.font("vcr.ttf"), 20, FlxColor.WHITE, CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		add(cock2);
+		
+		#if android
+		addVirtualPad(LEFT_FULL A_B;
+		#end
 	}
 
 	override public function update(elapsed:Float):Void 
