@@ -1843,21 +1843,21 @@ class PlayState extends MusicBeatState
 					camHUDShaders.push(effect);
 					var newCamEffects:Array<BitmapFilter>=[]; // IT SHUTS HAXE UP IDK WHY BUT WHATEVER IDK WHY I CANT JUST ARRAY<SHADERFILTER>
 					for(i in camHUDShaders){
-			//		  newCamEffects.push(new ShaderFilter(i.shader));
+	                	        newCamEffects.push(new ShaderFilter(i.shader));
 					}
 					camHUD.setFilters(newCamEffects);
 			case 'camother' | 'other':
 					camOtherShaders.push(effect);
 					var newCamEffects:Array<BitmapFilter>=[]; // IT SHUTS HAXE UP IDK WHY BUT WHATEVER IDK WHY I CANT JUST ARRAY<SHADERFILTER>
 					for(i in camOtherShaders){
-			//		  newCamEffects.push(new ShaderFilter(i.shader));
+		           		newCamEffects.push(new ShaderFilter(i.shader));
 					}
 					camOther.setFilters(newCamEffects);
 			case 'camgame' | 'game':
 					camGameShaders.push(effect);
 					var newCamEffects:Array<BitmapFilter>=[]; // IT SHUTS HAXE UP IDK WHY BUT WHATEVER IDK WHY I CANT JUST ARRAY<SHADERFILTER>
 					for(i in camGameShaders){
-			//		  newCamEffects.push(new ShaderFilter(i.shader));
+					newCamEffects.push(new ShaderFilter(i.shader));
 					}
 					camGame.setFilters(newCamEffects);
 			default:
@@ -1888,21 +1888,21 @@ class PlayState extends MusicBeatState
     camHUDShaders.remove(effect);
     var newCamEffects:Array<BitmapFilter>=[];
     for(i in camHUDShaders){
-//      newCamEffects.push(new ShaderFilter(i.shader));
+      newCamEffects.push(new ShaderFilter(i.shader));
     }
     camHUD.setFilters(newCamEffects);
 			case 'camother' | 'other': 
 					camOtherShaders.remove(effect);
 					var newCamEffects:Array<BitmapFilter>=[];
 					for(i in camOtherShaders){
-			//		  newCamEffects.push(new ShaderFilter(i.shader));
+					  newCamEffects.push(new ShaderFilter(i.shader));
 					}
 					camOther.setFilters(newCamEffects);
 			default: 
 				camGameShaders.remove(effect);
 				var newCamEffects:Array<BitmapFilter>=[];
 				for(i in camGameShaders){
-		//		  newCamEffects.push(new ShaderFilter(i.shader));
+				  newCamEffects.push(new ShaderFilter(i.shader));
 				}
 				camGame.setFilters(newCamEffects);
 		}
