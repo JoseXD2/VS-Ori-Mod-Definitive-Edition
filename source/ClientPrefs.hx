@@ -59,7 +59,7 @@ class ClientPrefs {
 	public static var noReset:Bool = false;
 	public static var healthBarAlpha:Float = 1;
 	public static var oriBarAlpha:Float = 1;
-	public static var controllerMode:Bool = false;
+	public static var controllerMode:Bool = true;
 	public static var displayTut:Bool = true;
 	public static var screenshakeenabled:Bool = true;
 	public static var skipwarnings:Bool = false;
