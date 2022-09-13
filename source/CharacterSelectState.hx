@@ -179,7 +179,7 @@ class CharacterSelectState extends MusicBeatState
 		add(cock2);
 		
 		#if android
-		addVirtualPad(LEFT_FULL A_B);
+		addVirtualPad(LEFT_FULL, A_B);
 		#end
 	}
 
