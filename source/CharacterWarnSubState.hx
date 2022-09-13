@@ -68,7 +68,7 @@ class CharacterWarnSubState extends MusicBeatSubstate
 		noText.x += 200;
 		add(noText);
 		#if android
-		addVirtualPad(LEFT_FULL, A_B;
+		addVirtualPad(LEFT_FULL, A_B);
 		#end
 		updateOptions();
 	}
