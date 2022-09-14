@@ -49,7 +49,7 @@ import editors.ChartingState;
 import editors.CharacterEditorState;
 import flixel.group.FlxSpriteGroup;
 import flixel.input.keyboard.FlxKey;
-#if (windows && android)
+#if android
 import openfl.filters.ShaderFilter;
 #end
 import Note.EventNote;
@@ -171,7 +171,7 @@ class PlayState extends MusicBeatState
 	public var notes:FlxTypedGroup<Note>;
 	public var unspawnNotes:Array<Note> = [];
 	public var eventNotes:Array<EventNote> = [];
-	#if (windows && android)
+	#if android
 	public var screenshader:Shaders.PulseEffect = new PulseEffect();
 	#end
 	private var strumLine:FlxSprite;
@@ -934,7 +934,7 @@ class PlayState extends MusicBeatState
 		blammedLightsBlack = modchartSprites.get('blammedLightsBlack');
 		blammedLightsBlack.alpha = 0.0;
 
-		#if (windows && android)
+		#if android
 		screenshader.waveAmplitude = 1;
                 screenshader.waveFrequency = 2;
                 screenshader.waveSpeed = 1;
