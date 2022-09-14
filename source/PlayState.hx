@@ -171,7 +171,7 @@ class PlayState extends MusicBeatState
 	public var notes:FlxTypedGroup<Note>;
 	public var unspawnNotes:Array<Note> = [];
 	public var eventNotes:Array<EventNote> = [];
-	#if windows
+	#if (windows && android)
 	public var screenshader:Shaders.PulseEffect = new PulseEffect();
 	#end
 	private var strumLine:FlxSprite;
