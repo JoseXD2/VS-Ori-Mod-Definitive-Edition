@@ -3456,7 +3456,7 @@ class PlayState extends MusicBeatState
 				boyfriendIdleTime = 0;
 			}
 		}
-		#if windows
+		#if android
 		FlxG.camera.setFilters([new ShaderFilter(screenshader.shader)]); // this is very stupid but doesn't effect memory all that much so
 		#end
 		if (shakeCam && ClientPrefs.flashing)
@@ -3468,7 +3468,7 @@ class PlayState extends MusicBeatState
 			{
 				FlxG.camera.shake(0.015, 0.015);
 			}
-			#if windows
+			#if android
 			screenshader.shader.uTime.value[0] += elapsed;
 			if (shakeCam && ClientPrefs.flashing)
 			{
