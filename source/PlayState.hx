@@ -49,9 +49,7 @@ import editors.ChartingState;
 import editors.CharacterEditorState;
 import flixel.group.FlxSpriteGroup;
 import flixel.input.keyboard.FlxKey;
-#if android
 import openfl.filters.ShaderFilter;
-#end
 import Note.EventNote;
 import openfl.events.KeyboardEvent;
 import flixel.util.FlxSave;
@@ -3456,7 +3454,7 @@ class PlayState extends MusicBeatState
 				boyfriendIdleTime = 0;
 			}
 		}
-		#if android
+		#if windows
 		FlxG.camera.setFilters([new ShaderFilter(screenshader.shader)]); // this is very stupid but doesn't effect memory all that much so
 		#end
 		if (shakeCam && ClientPrefs.flashing)
@@ -3468,7 +3466,7 @@ class PlayState extends MusicBeatState
 			{
 				FlxG.camera.shake(0.015, 0.015);
 			}
-			#if android
+			#if windows
 			screenshader.shader.uTime.value[0] += elapsed;
 			if (shakeCam && ClientPrefs.flashing)
 			{
@@ -6213,7 +6211,7 @@ class PlayState extends MusicBeatState
 					switch (curStep) {
 						case 256:
 							if (ClientPrefs.flashing) {
-							addShaderToCamera('camHUD', new ChromaticAberrationEffect(0.01));
+				//			addShaderToCamera('camHUD', new ChromaticAberrationEffect(0.01));
 							}
 							FlxTween.tween(songinfonew, {y: -500}, 1, {ease: FlxEase.linear});
 							FlxTween.tween(healthBar, {alpha: 1}, 0.01, {ease: FlxEase.linear});
@@ -7249,7 +7247,7 @@ class PlayState extends MusicBeatState
 								FlxTween.tween(scoreTxt, {alpha: 1}, 0.01, {ease: FlxEase.linear});
 								if (ClientPrefs.flashing)
 								addShaderToCamera('camHUD', new ChromaticAberrationEffect(0.01));
-								strumLineNotes.forEach(function(note)
+			//					strumLineNotes.forEach(function(note)
 									{
 										quickSpin(note);
 									});
@@ -8103,130 +8101,4 @@ class PlayState extends MusicBeatState
 		setOnLuas('ratingName', ratingName);
 		setOnLuas('ratingFC', ratingFC);
 		if (songMisses >= 65)
-		judgementCounter.text = 'Sicks: ${sicks} (${sickrows})\nGoods: ${goods}\nBads: ${bads}\nShits: ${shits}\nMisses: ${songMisses} (Skill Issue)\n';
-		else
-		judgementCounter.text = 'Sicks: ${sicks} (${sickrows})\nGoods: ${goods}\nBads: ${bads}\nShits: ${shits}\nMisses: ${songMisses}\n';
-	}
-
-	#if ACHIEVEMENTS_ALLOWED
-	private function checkForAchievement(achievesToCheck:Array<String> = null):String
-	{
-		if(chartingMode) return null;
-
-		var usedPractice:Bool = (ClientPrefs.getGameplaySetting('practice', false) || ClientPrefs.getGameplaySetting('botplay', false));
-		for (i in 0...achievesToCheck.length) {
-			var achievementName:String = achievesToCheck[i];
-			if(!Achievements.isAchievementUnlocked(achievementName) && !cpuControlled) {
-				var unlock:Bool = false;
-				switch(achievementName)
-				{
-					case 'Nibel_nomiss' | 'Nibel2_nomiss' | 'Niwen_nomiss' | 'Bonus_nomiss':
-						if(isStoryMode && campaignMisses + songMisses < 1 && CoolUtil.difficultyString() == 'STANDERED' && storyPlaylist.length <= 1 && !changedDifficulty && !usedPractice && !ClientPrefs.disabledachievements)
-						{
-							var weekName:String = WeekData.getWeekFileName();
-							switch(weekName) //I know this is a lot of duplicated code, but it's easier readable and you can add weeks with different names than the achievement tag
-							{
-								case 'nibel':
-									if(achievementName == 'Nibel_nomiss') unlock = true;
-								case 'kuro':
-									if(achievementName == 'Nibel2_nomiss') unlock = true;
-								case 'niwen':
-									if(achievementName == 'Niwen_nomiss') unlock = true;
-								case 'bonus':
-									if(achievementName == 'Bonus_nomiss') unlock = true;
-							}
-						}
-					case 'ONELIFE_nomiss':
-						if(isStoryMode && campaignMisses + songMisses < 1 && CoolUtil.difficultyString() == 'ONELIFE' && storyPlaylist.length <= 1 && !changedDifficulty && !usedPractice && !ClientPrefs.disabledachievements)
-						{
-							var weekName:String = WeekData.getWeekFileName();
-							switch(weekName) // I know this is the same as above, but it's easier that way. And honestly it's the exact same thing but on One Life.
-							{
-								case 'preonelife':
-									if(achievementName == 'ONELIFE_nomiss') unlock = true;
-							}
-						}
-					case 'NibelOG_nomiss' | 'Nibel2OG_nomiss' | 'NiwenOG_nomiss' | 'BonusOG_nomiss':
-						if(isStoryMode && campaignMisses + songMisses < 1 && (CoolUtil.difficultyString() == 'OLDCHART' || CoolUtil.difficultyString() == 'LEGACY') && storyPlaylist.length <= 1 && !changedDifficulty && !usedPractice && !ClientPrefs.disabledachievements)
-						{
-							var weekName:String = WeekData.getWeekFileName();
-							switch(weekName)
-							{
-								case 'nibel':
-									if(achievementName == 'NibelOG_nomiss') unlock = true;
-								case 'kuro':
-									if(achievementName == 'Nibel2OG_nomiss') unlock = true;
-								case 'niwen':
-									if(achievementName == 'NiwenOG_nomiss') unlock = true;
-								case 'bonus':
-									if(achievementName == 'BonusOG_nomiss') unlock = true;
-							}
-						}
-					case 'COR_nomiss' | 'SAO_nomiss' | 'FAT_nomiss':
-						if(campaignMisses + songMisses < 1 && storyPlaylist.length <= 1 && !changedDifficulty && !usedPractice && !ClientPrefs.disabledachievements)
-						{
-						//	var weekName:String = WeekData.getWeekFileName();
-							switch(Paths.formatToSongPath(SONG.song))
-							{
-								case 'shriek-and-ori':
-									if(achievementName == 'SAO_nomiss') unlock = true;
-								case 'corrupurgation':
-									if(achievementName == 'COR_nomiss') unlock = true;
-								case 'fatality':
-									if(achievementName == 'FAT_nomiss') unlock = true;
-							}
-						}
-					case 'ur_bad':
-						if(ratingPercent < 0.2 && !practiceMode && Paths.formatToSongPath(SONG.song) != 'blind-forest' && !ClientPrefs.disabledachievements) {
-							unlock = true;
-						}
-					case 'ur_good':
-						if(ratingPercent >= 1 && !usedPractice && !ClientPrefs.disabledachievements) {
-							unlock = true;
-						}
-					case 'ohshit':
-						if (Paths.formatToSongPath(SONG.song) == 'blind-forest')
-						unlock = true;
-					case 'oversinging':
-						if(boyfriend.holdTimer >= 10 && !usedPractice && !ClientPrefs.disabledachievements) {
-							unlock = true;
-						}
-					case 'hype':
-						if(!boyfriendIdled && !usedPractice && !ClientPrefs.disabledachievements) {
-							unlock = true;
-						}
-					case 'two_keys':
-						if(!usedPractice && Paths.formatToSongPath(SONG.song) != 'blind-forest' && !ClientPrefs.disabledachievements) {
-							var howManyPresses:Int = 0;
-							for (j in 0...keysPressed.length) {
-								if(keysPressed[j]) howManyPresses++;
-							}
-
-							if(howManyPresses <= 2) {
-								unlock = true;
-							}
-						}
-					case 'toastie':
-						if(ClientPrefs.framerate <= 60 && ClientPrefs.lowQuality && !ClientPrefs.globalAntialiasing && !ClientPrefs.imagesPersist && !ClientPrefs.disabledachievements) {
-							unlock = true;
-						}
-					case 'debugger':
-						if(Paths.formatToSongPath(SONG.song) == 'test' && !usedPractice && !ClientPrefs.disabledachievements) {
-							unlock = true;
-						}
-				}
-
-				if(unlock) {
-					Achievements.unlockAchievement(achievementName);
-					return achievementName;
-				}
-			}
-		}
-		return null;
-	}
-	#end
-	
-	var curLight:Int = 0;
-	var curLightEvent:Int = 0;
-	
-}
+		judgementCounter.text = 'Sicks: 
