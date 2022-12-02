@@ -44,6 +44,7 @@ class BuildingShader extends FlxShader
   ')
   public function new()
   {
+	
     super();
   }
 }
@@ -131,6 +132,7 @@ class Scanline extends FlxShader
 		}')
 	public function new()
 	{
+		
 		super();
 	}
 }
@@ -230,6 +232,9 @@ class Tiltshift extends FlxShader
 		}')
 	public function new()
 	{
+		bluramount.value = [1.0];
+		center.value = [1.0];
+		
 		super();
 	}
 }
@@ -442,6 +447,10 @@ class Grain extends FlxShader
 		}')
 	public function new()
 	{
+		coloramount.value = [0.6];
+		grainsize.value = [1.6];
+		lumamount.value = [1.0];
+		
 		super();
 	}
 	
@@ -720,6 +729,12 @@ void main() {
 	')
 	
 	public function new(){
+		
+		xrot.value = [0.0];
+		yrot.value = [0.0];
+		zrot.value = [0.0];
+		dept.value = [0.0];
+		
 		super();
 	}
 	
@@ -953,6 +968,10 @@ void main()
 	')
 	
 	public function new(){
+		
+		intensity.value = [0.35];
+		blurSize.value = [1.0/512.0];
+		
 		super();
 	}
 	
