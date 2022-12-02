@@ -60,6 +60,7 @@ import DialogueBoxPsych;
 import flash.system.System;
 #if sys
 import sys.FileSystem;
+import sys.io.File;
 #end
 
 using StringTools;
