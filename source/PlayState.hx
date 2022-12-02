@@ -8224,6 +8224,7 @@ class PlayState extends MusicBeatState
 	}
 	#end
 
-	var curLight:Int = 0;
-	var curLightEvent:Int = 0;	
-		judgementCounter.text = 'Sicks: 
+	  var curLight:Int = -1;
+	var curLightEvent:Int = -1;
+}    
+		
